@@ -14,5 +14,7 @@
 	<packages>ada2</packages>
 	<versions>asdasd2</versions>
 	<activity>sadad2</activity>
+	<platform>Android</platform>
+	<URL>127.0.0.1:4723</URL>
 </desired-capabilities>
 </configs>
