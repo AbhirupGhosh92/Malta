@@ -1,0 +1,18 @@
+<configs>
+<desired-capabilities>
+	<case>dialer</case>
+	<device>12d6fa1d</device>
+	<packages>com.android.dialer</packages>
+	<versions>6.0.1</versions>
+	<activity>DialtactsActivity</activity>
+	<platform>Android</platform>
+	<URL>127.0.0.1:4723</URL>
+</desired-capabilities>
+<desired-capabilities>
+	<case>dialer2</case>
+	<device>abc2</device>
+	<packages>ada2</packages>
+	<versions>asdasd2</versions>
+	<activity>sadad2</activity>
+</desired-capabilities>
+</configs>
