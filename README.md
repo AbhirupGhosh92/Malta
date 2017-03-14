@@ -1,6 +1,6 @@
 # Malta
 
-A testing framework on top of <a href="https://github.com/appium/appium">Appium</a>, designed to be the icing on the cake.
+A testing framework on top of <a href="http://appium.io/">Appium</a>, designed to be the icing on the cake.
 
 Malta is designed to help automation testers focus more on their test cases than before. All the configurations are taken care of by Malta.
 
